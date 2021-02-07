@@ -2,6 +2,7 @@
 Email: hmanda1@binghamton.edu
 I have used MEAN stack to finish this project. 
 Tools and frameworks used in this project are : MongoDB, AngularJS, ExpressJS, NodeJS, Material design, Mongoose, HTML5, CSS3, Nodemon, Bootstrap.
+
 The Commands to run the project
 ----------------------------------------------------------------------------------------------------------------------------------------
 Starting the MongoDB server:
