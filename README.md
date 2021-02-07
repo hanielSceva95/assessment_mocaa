@@ -9,6 +9,7 @@ Starting the MongoDB server:
 2.start the mongo server using the command:	mongo
 3.Create the Database employeeDatabase using :   use employeeDatabase 
 4.create collection with data in it by using:
+
 db.employees.insertMany([{ first_name: "john", age: 25, job_title: "full stack developer", salary:23456 },{ first_name: "ray", age: 85, job_title: "data analyst", salary:555555  },{ first_name: "evans", age: 35, job_title: "networks engineer", salary:23445 },{ first_name: "sam", age: 87, job_title: "data analyst", salary:5343455 },{ first_name: "haniel", age: 35, job_title: "full stack developer", salary:2242  },{ first_name: "sceva", age: 73, job_title: "networks engineer", salary:50000 },{ first_name: "daniel", age: 86, job_title: "networks engineer", salary:30000 },{ first_name: "john", age: 77, job_title: "data analyst", salary:234556  },{ first_name: "evans", age: 53, job_title: "full stack developer", salary:12345 },{ first_name: "ray", age: 22, job_title: "full stack developer", salary:1234 },{ first_name: "ray", age: 66, job_title: "data analyst", salary:123  },{ first_name: "evans", age: 55, job_title: "networks engineer", salary:234453 }])
 ------------------------------------------------------------------------------------------------------------------------------------------
 Starting Backend server:
